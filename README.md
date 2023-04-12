@@ -1,4 +1,5 @@
 # Pontos-Reativos
+Gera um ponto na tela a cada click.
 
 # Preview
 Acesse este projeto virtualmente [aqui](https://luigimilanez.github.io/Pontos-Reativos)
