@@ -62,8 +62,8 @@ function criarPonto() {
     newDot.style.left = `${lista[lista.length-1]['posX']}px`;
     divContainer.appendChild(newDot);
 
-    console.log(lista);
-    console.log(apagados);
+    // console.log(lista);
+    // console.log(apagados);
 };
 
 
